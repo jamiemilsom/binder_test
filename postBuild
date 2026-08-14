@@ -1,2 +1,1 @@
-curl -LsSf https://hf.co/cli/install.sh | bash
-hf download sentence-transformers/all-MiniLM-L6-v2
+
